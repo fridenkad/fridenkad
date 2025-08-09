@@ -5,8 +5,8 @@ Sou founder / Developer da lingaugem de programacao Brix.fs v1.0.0
 
 <div align="center">
   <a href="https://github.com/THZIMX">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darkmodh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmodh&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fridenkad&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fridenkad&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
